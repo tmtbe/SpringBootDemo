@@ -1,0 +1,8 @@
+# Auto Configuration
+org.springframework.context.ApplicationContextInitializer=\
+com.test.TestContextInit
+org.springframework.context.ApplicationListener=\
+com.test.TestApplicationListener
+org.springframework.boot.SpringApplicationRunListener=\
+com.test.TestRunListener
+
